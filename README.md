@@ -4,10 +4,10 @@
 
 <p>👩‍💻 안녕하세요 프론트엔드 개발자 이지수입니다. 👋</p>
 <div>
-<h3>🛠 My Tech Stack 🛠️</h3>
 
-#
-<br/>
+  #
+  
+<h3>🛠 My Tech Stack 🛠️</h3>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -24,10 +24,7 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easyxxu&layout=compact&theme=vue)
-
-
-![easyxxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyxxu&theme=vue&show_icons=true)
+![easyxxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyxxu&theme=vue&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easyxxu&layout=compact&theme=vue)
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=b7dcb6&height=200&section=footer&text=&fontSize=70" />
 </div>
