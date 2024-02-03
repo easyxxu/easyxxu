@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=b7dcb6&height=300&section=header&text=easyxxu&fontColor=f1ff9c&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=b7dcb6&height=200&section=header&text=easyxxu&fontColor=f8ffa2&fontSize=70&animation=fadeIn" />
 
 <p>👩‍💻 안녕하세요 프론트엔드 개발자 이지수입니다. 👋</p>
 <div>
@@ -26,5 +26,5 @@
 
 ![easyxxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyxxu&theme=vue&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easyxxu&layout=compact&theme=vue)
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=b7dcb6&height=200&section=footer&text=&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=b7dcb6&height=150&section=footer&text=&fontSize=70" />
 </div>
