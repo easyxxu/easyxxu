@@ -25,5 +25,5 @@
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=easyxxu&theme=apprentice&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=easyxxu&layout=compact&theme=apprentice" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=easyxxu&layout=compact&theme=apprentice" width="42%" />
 </div>
